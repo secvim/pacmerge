@@ -1,0 +1,14 @@
+
+{
+  "glibc": "sys-libs/glibc",
+  "gcc": "sys-devel/gcc",
+  "python": "dev-lang/python",
+  "perl": "dev-lang/perl",
+  "gettext": "sys-devel/gettext",
+  "xz": "app-arch/xz-utils",
+  "attr": "sys-apps/attr",
+  "zlib": "sys-libs/zlib",
+  "expat": "dev-libs/expat",
+  "make": "sys-devel/make"
+}
+
